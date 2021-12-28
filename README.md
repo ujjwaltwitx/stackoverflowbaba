@@ -1,0 +1,1 @@
+This is a simple extension that helps you search your queries on stackoverflow directly from VSCode.
